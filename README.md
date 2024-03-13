@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MostafaE1gamal
-- 👀 I’m interested in Cyper Security
+- 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Pentesting
 - 📫 How to reach me 
 
